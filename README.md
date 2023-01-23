@@ -9,7 +9,7 @@
 - Learn more about the Bhadoo Google Personal/Shared Drive Index at: https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
 
 - The script also has the capability to scrape links that are protected by a username and password by providing the appropriate values,
-- 
+ 
 ----
 
 ## Screenshots
