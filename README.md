@@ -4,15 +4,16 @@
 
 -----
 
-- A small script to scrape direct download links (ddls) of downloadable files from bhadoo google drive index.
-- More about bhadoo Google Personal/Shared Drive Index :-https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
+- A script to scrape direct download links (DDLs) for files from the Bhadoo Google Drive index.
 
------
+- Learn more about the Bhadoo Google Personal/Shared Drive Index at: https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
+
+- The script also has the capability to scrape links that are protected by a username and password by providing the appropriate values,
+- 
+----
 
 ## Screenshots
 
 ![App Screenshot](https://telegra.ph/file/02de0add6d1abacda7eca.jpg?text=example)
 
-- (Username, Password) protected link can also be scraped by providing respective value in script.
-
------
+----
