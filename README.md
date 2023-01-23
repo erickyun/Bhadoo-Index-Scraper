@@ -12,7 +12,10 @@
  
 ----
 
-## Screenshots
+<div align="center">
+<h1>Screenshots</h1>
+</div>
+
 
 ![App Screenshot](https://telegra.ph/file/02de0add6d1abacda7eca.jpg?text=example)
 
