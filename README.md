@@ -3,7 +3,7 @@
 A small script to scrape direct download links (ddls) of downloadable files from bhadoo google drive index.
 
 
-More about bhadoo Google Personal/Shared Drive Index : https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
+• More about bhadoo Google Personal/Shared Drive Index :-https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
 
 ## Screenshots
 
